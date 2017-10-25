@@ -4,142 +4,156 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>number</element>
             <position>0</position>
-            <sys_created_by>fred.luddy</sys_created_by>
-            <sys_created_on>2017-10-18 08:58:41</sys_created_on>
-            <sys_id>e24577fadb3543008432f6dfbf96197e</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-25 04:25:26</sys_created_on>
+            <sys_id>b3d9f609db8243008432f6dfbf961908</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">b1a47bbadb3543008432f6dfbf961915</sys_ui_section>
-            <sys_updated_by>fred.luddy</sys_updated_by>
-            <sys_updated_on>2017-10-18 08:58:41</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-25 04:25:26</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>assigned_to</element>
             <position>1</position>
-            <sys_created_by>fred.luddy</sys_created_by>
-            <sys_created_on>2017-10-18 08:58:41</sys_created_on>
-            <sys_id>664577fadb3543008432f6dfbf96197e</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-25 04:25:26</sys_created_on>
+            <sys_id>7bd9f609db8243008432f6dfbf961908</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">b1a47bbadb3543008432f6dfbf961915</sys_ui_section>
-            <sys_updated_by>fred.luddy</sys_updated_by>
-            <sys_updated_on>2017-10-18 08:58:41</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-25 04:25:26</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>due_date</element>
             <position>2</position>
-            <sys_created_by>fred.luddy</sys_created_by>
-            <sys_created_on>2017-10-18 08:58:41</sys_created_on>
-            <sys_id>e64577fadb3543008432f6dfbf96197e</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-25 04:25:26</sys_created_on>
+            <sys_id>fbd9f609db8243008432f6dfbf961908</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">b1a47bbadb3543008432f6dfbf961915</sys_ui_section>
-            <sys_updated_by>fred.luddy</sys_updated_by>
-            <sys_updated_on>2017-10-18 08:58:41</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-25 04:25:26</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
             <position>3</position>
-            <sys_created_by>fred.luddy</sys_created_by>
-            <sys_created_on>2017-10-18 08:58:41</sys_created_on>
-            <sys_id>6a4577fadb3543008432f6dfbf96197e</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-25 04:25:26</sys_created_on>
+            <sys_id>7fd9f609db8243008432f6dfbf961908</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">b1a47bbadb3543008432f6dfbf961915</sys_ui_section>
-            <sys_updated_by>fred.luddy</sys_updated_by>
-            <sys_updated_on>2017-10-18 08:58:41</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-25 04:25:26</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>priority</element>
             <position>4</position>
-            <sys_created_by>fred.luddy</sys_created_by>
-            <sys_created_on>2017-10-18 08:58:41</sys_created_on>
-            <sys_id>ea4577fadb3543008432f6dfbf96197e</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-25 04:25:26</sys_created_on>
+            <sys_id>ffd9f609db8243008432f6dfbf961908</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">b1a47bbadb3543008432f6dfbf961915</sys_ui_section>
-            <sys_updated_by>fred.luddy</sys_updated_by>
-            <sys_updated_on>2017-10-18 08:58:41</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-25 04:25:26</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>state</element>
             <position>5</position>
-            <sys_created_by>fred.luddy</sys_created_by>
-            <sys_created_on>2017-10-18 08:58:41</sys_created_on>
-            <sys_id>6e4577fadb3543008432f6dfbf96197e</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-25 04:25:26</sys_created_on>
+            <sys_id>73d9f609db8243008432f6dfbf961909</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">b1a47bbadb3543008432f6dfbf961915</sys_ui_section>
-            <sys_updated_by>fred.luddy</sys_updated_by>
-            <sys_updated_on>2017-10-18 08:58:41</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-25 04:25:26</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
             <position>6</position>
-            <sys_created_by>fred.luddy</sys_created_by>
-            <sys_created_on>2017-10-18 08:58:41</sys_created_on>
-            <sys_id>ee4577fadb3543008432f6dfbf96197e</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-25 04:25:26</sys_created_on>
+            <sys_id>f3d9f609db8243008432f6dfbf961909</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">b1a47bbadb3543008432f6dfbf961915</sys_ui_section>
-            <sys_updated_by>fred.luddy</sys_updated_by>
-            <sys_updated_on>2017-10-18 08:58:41</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-25 04:25:26</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>short_description</element>
             <position>7</position>
-            <sys_created_by>fred.luddy</sys_created_by>
-            <sys_created_on>2017-10-18 08:58:41</sys_created_on>
-            <sys_id>624577fadb3543008432f6dfbf96197f</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-25 04:25:26</sys_created_on>
+            <sys_id>77d9f609db8243008432f6dfbf961909</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">b1a47bbadb3543008432f6dfbf961915</sys_ui_section>
-            <sys_updated_by>fred.luddy</sys_updated_by>
-            <sys_updated_on>2017-10-18 08:58:41</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-25 04:25:26</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
             <position>8</position>
-            <sys_created_by>fred.luddy</sys_created_by>
-            <sys_created_on>2017-10-18 08:58:41</sys_created_on>
-            <sys_id>e24577fadb3543008432f6dfbf96197f</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-25 04:25:26</sys_created_on>
+            <sys_id>f7d9f609db8243008432f6dfbf961909</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">b1a47bbadb3543008432f6dfbf961915</sys_ui_section>
-            <sys_updated_by>fred.luddy</sys_updated_by>
-            <sys_updated_on>2017-10-18 08:58:41</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-25 04:25:26</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>work_notes</element>
             <position>9</position>
-            <sys_created_by>fred.luddy</sys_created_by>
-            <sys_created_on>2017-10-18 08:58:41</sys_created_on>
-            <sys_id>664577fadb3543008432f6dfbf96197f</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-25 04:25:26</sys_created_on>
+            <sys_id>7bd9f609db8243008432f6dfbf961909</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">b1a47bbadb3543008432f6dfbf961915</sys_ui_section>
-            <sys_updated_by>fred.luddy</sys_updated_by>
-            <sys_updated_on>2017-10-18 08:58:41</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-25 04:25:26</sys_updated_on>
             <sys_user/>
             <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-25 04:25:26</sys_created_on>
+            <sys_id>fbd9f609db8243008432f6dfbf961909</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">b1a47bbadb3543008432f6dfbf961915</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-25 04:25:26</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
